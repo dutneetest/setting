@@ -1,6 +1,9 @@
+remote_theme : mmistakes/so-simple-theme
+
 # SITE CONFIGURATION
+
 baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+url: "https://eklee126.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
